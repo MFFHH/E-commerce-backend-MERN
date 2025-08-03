@@ -1,1 +1,1 @@
-# E-commerce-backend-MERN
+# E-commerce-MERN
